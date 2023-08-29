@@ -1,0 +1,11 @@
+/Users/emerson/Cursos/FormacaoDotNetDeveloper/ExemploFundamentos/ExemploFundamentos.Common/bin/Debug/net7.0/ExemploFundamentos.Common.deps.json
+/Users/emerson/Cursos/FormacaoDotNetDeveloper/ExemploFundamentos/ExemploFundamentos.Common/bin/Debug/net7.0/ExemploFundamentos.Common.dll
+/Users/emerson/Cursos/FormacaoDotNetDeveloper/ExemploFundamentos/ExemploFundamentos.Common/bin/Debug/net7.0/ExemploFundamentos.Common.pdb
+/Users/emerson/Cursos/FormacaoDotNetDeveloper/ExemploFundamentos/ExemploFundamentos.Common/obj/Debug/net7.0/ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emerson/Cursos/FormacaoDotNetDeveloper/ExemploFundamentos/ExemploFundamentos.Common/obj/Debug/net7.0/ExemploFundamentos.Common.AssemblyInfoInputs.cache
+/Users/emerson/Cursos/FormacaoDotNetDeveloper/ExemploFundamentos/ExemploFundamentos.Common/obj/Debug/net7.0/ExemploFundamentos.Common.AssemblyInfo.cs
+/Users/emerson/Cursos/FormacaoDotNetDeveloper/ExemploFundamentos/ExemploFundamentos.Common/obj/Debug/net7.0/ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+/Users/emerson/Cursos/FormacaoDotNetDeveloper/ExemploFundamentos/ExemploFundamentos.Common/obj/Debug/net7.0/ExemploFundamentos.Common.dll
+/Users/emerson/Cursos/FormacaoDotNetDeveloper/ExemploFundamentos/ExemploFundamentos.Common/obj/Debug/net7.0/refint/ExemploFundamentos.Common.dll
+/Users/emerson/Cursos/FormacaoDotNetDeveloper/ExemploFundamentos/ExemploFundamentos.Common/obj/Debug/net7.0/ExemploFundamentos.Common.pdb
+/Users/emerson/Cursos/FormacaoDotNetDeveloper/ExemploFundamentos/ExemploFundamentos.Common/obj/Debug/net7.0/ref/ExemploFundamentos.Common.dll
